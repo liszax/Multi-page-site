@@ -35,3 +35,8 @@ a[target="_blank"]{
   background-color:pink;
   color:springgreen;
 }
+
+img {
+  width:40%;
+  margin:30px;
+}
