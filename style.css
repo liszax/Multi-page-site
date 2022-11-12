@@ -1,0 +1,37 @@
+
+a:hover{
+  background-color: crimson;
+  color:blue;
+}
+a:active{
+  background-color: seagreen;
+  color: yellow;
+}
+
+body{
+  background-image:url("https://wallpapers.com/images/high/earth-from-outer-space-hqcn8qccai6ahw2u.jpg") ;
+      background-repeat:no-repeat;
+      background-size:cover;
+    }
+/*
+h1,a, p{
+  color:whitesmoke;
+}
+*/
+*{
+  color:purple;
+}
+
+h1:first-letter{
+ font-size:2em;
+  
+}
+
+li:first-child{
+  font-size:2em;
+}
+
+a[target="_blank"]{
+  background-color:pink;
+  color:springgreen;
+}
